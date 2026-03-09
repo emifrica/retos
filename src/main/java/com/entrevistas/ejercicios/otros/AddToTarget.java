@@ -4,6 +4,15 @@ package com.entrevistas.ejercicios.otros;
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 You can return the answer in any order
+Descripción del problema
+Se te da:
+Un arreglo de enteros nums
+Un número entero target
+Debes encontrar los índices de dos números en el arreglo cuya suma sea igual a target.
+Reglas
+Cada entrada tiene exactamente una solución válida.
+No puedes usar el mismo elemento dos veces.
+Puedes regresar los índices en cualquier orden.
 
  */
 
